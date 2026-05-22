@@ -61,4 +61,3 @@ if st.button("Cerca"):
 
             st.write("###", n)
             st.json(risultato)
-``
